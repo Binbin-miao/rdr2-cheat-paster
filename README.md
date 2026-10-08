@@ -2,6 +2,8 @@
 
 > RDR2 Cheat Paster — 把《荒野大镖客 2》全部 37 条官方作弊码一键输入游戏。
 
+[English](README.en.md) | **简体中文**
+
 还在一条条手打 `Abundance is the dullest desire` 这种英文短语？这个小工具把 37 条作弊码全内置好了，
 按一个 `Ctrl + ,` 就自动帮你输进游戏的密码框，`Ctrl + ↑` / `Ctrl + ↓` 上下翻条。
 
@@ -150,9 +152,10 @@ rdr2-cheat-paster/
 ├── cheats.py               # 37 条作弊码数据
 ├── build.bat               # 一键打包脚本
 ├── 使用说明.md              # 详细中文说明
+├── README.md               # 中文 README（本文件）
+├── README.en.md            # English README
 ├── requirements.txt
-├── LICENSE
-└── README.md
+└── LICENSE
 ```
 
 ---
