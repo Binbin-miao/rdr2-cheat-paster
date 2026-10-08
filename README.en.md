@@ -32,7 +32,7 @@ cheat box for you. Flip through codes with `Ctrl + ↑` / `Ctrl + ↓`.
 
 ### Option 1: Run the exe (recommended)
 
-1. Download `RDR2作弊码速贴器.exe` from [Releases](https://github.com/Binbin-miao/rdr2-cheat-paster/releases)
+1. Download `RDR2_Cheat_Paster_v1.0.0.exe` from [Releases](https://github.com/Binbin-miao/rdr2-cheat-paster/releases/latest)
 2. Double-click to run
 3. In game: `ESC` → **Settings** → **Cheats** at the bottom, leave the cursor in the text box
 4. Pick a code with `Ctrl + ↑` / `Ctrl + ↓`, then press `Ctrl + ,`

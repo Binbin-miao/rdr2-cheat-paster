@@ -31,7 +31,8 @@
 
 ### 方式一：直接跑 exe（推荐）
 
-1. 下载 [Releases](https://github.com/Binbin-miao/rdr2-cheat-paster/releases) 里的 `RDR2作弊码速贴器.exe`
+1. 下载 [Releases](https://github.com/Binbin-miao/rdr2-cheat-paster/releases/latest) 里的 `RDR2_Cheat_Paster_v1.0.0.exe`
+   （重命名为 `RDR2作弊码速贴器.exe` 不影响使用）
 2. 双击运行
 3. 进游戏 → `ESC` → **设置** → 底部 **密码**，光标停在输入框
 4. 用 `Ctrl + ↑` / `Ctrl + ↓` 选好作弊码，按 `Ctrl + ,` 输入
